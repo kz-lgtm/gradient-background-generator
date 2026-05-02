@@ -1,5 +1,12 @@
 # gradient-background-generator
 
+## Acknowledgment
+This project was based on a course by Andrei Neagoie.
+
+## My Contributions
+- Implemented a copy-to-clipboard feature for generated CSS
+- Enhanced interactivity using JavaScript
+
 ## Overview
 A web tool that allows users to generate and preview CSS gradient backgrounds by selecting two colors, with the ability to copy the generated CSS code.
 
